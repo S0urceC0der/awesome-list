@@ -32,6 +32,10 @@ https://github.com/cwalk/PL0-Compiler
 
 ## 数据挖掘
 
+#### Python机器学习相关
+
+[Learn NumPy within 100 Exercises](https://labex.io/courses/100-numpy-exercises)
+
 #### 视频教程
 
 [动手学深度学习](http://zh.gluon.ai/)
