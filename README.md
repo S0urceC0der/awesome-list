@@ -7,6 +7,8 @@
 
 [awesome-decompilation](https://github.com/nforest/awesome-decompilation)
 
+[各种安全相关技巧](https://github.com/sneakerhax/Runbooks)
+
 [Reverse Engineering for Beginners](https://github.com/DennisYurichev/RE-for-beginners)
 
 [wnagzihxa1n](https://weibo.com/u/1784290004) 搜集的浏览器二进制安全相关的学习资料 https://github.com/wnagzihxa1n/BrowserSecurity/blob/master/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99.md ，这个仓库也有相关的代码 https://github.com/wnagzihxa1n/BrowserSecurity
