@@ -9,7 +9,7 @@
 
 [各种安全相关技巧](https://github.com/sneakerhax/Runbooks)
 
-[基本安全书籍](https://twitter.com/APTp0/status/1068843879351238656)
+[几本安全书籍](https://twitter.com/APTp0/status/1068843879351238656)
 
 [Reverse Engineering for Beginners](https://github.com/DennisYurichev/RE-for-beginners)
 
